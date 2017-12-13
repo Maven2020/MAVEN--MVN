@@ -1,2 +1,2 @@
 .git* export-ignore
-/CMakeLists.txt export-subst
+/CMakeLists.txt export-
